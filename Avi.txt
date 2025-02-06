@@ -1,0 +1,75 @@
+1		Alabama
+2		Alaska
+3		Arizona
+4		Arkansas
+5		California
+6		Colorado
+7		Connecticut
+8		Delaware
+9		Florida
+10		Georgia
+11		Hawaii
+12		Idaho
+13		IllinoisIndiana
+14		Iowa
+15		Kansas
+16		Kentucky
+17		Louisiana
+18		Maine
+19		Maryland
+20		Massachusetts
+21		Michigan
+22		Minnesota
+23		Mississippi
+24		Missouri
+25		MontanaNebraska
+26		Nevada
+27		New Hampshire
+28		New Jersey
+29		New Mexico
+30		New York
+31		North Carolina
+32		North Dakota
+33		Ohio
+34		Oklahoma
+35		Oregon
+36		PennsylvaniaRhode Island
+37		South Carolina
+38		South Dakota
+39		Tennessee
+40		Texas
+41		Utah
+42		Vermont
+43		Virginia
+44		Washington
+45		West Virginia
+46		Wisconsin
+47		Wyoming
+48		Andhra Pradesh
+49		Arunachal Pradesh
+50		Assam
+51		Bihar
+52		Chhattisgarh
+53		Goa
+54		Gujarat
+55		Haryana
+56		Himachal Pradesh
+57		Jharkhand
+58		Karnataka
+59		Kerala
+60		Madhya Pradesh
+61		Maharashtra
+62		Manipur
+63		Meghalaya
+64		Mizoram
+65		Nagaland
+66		Odisha (Orissa)
+67		Punjab
+68		Rajasthan
+69		Sikkim
+70		Tamil Nadu
+71		Telangana (from June 2, 2014)
+72		Tripura
+73		Uttar Pradesh
+74		Uttarakhand
+75		West Bengal
